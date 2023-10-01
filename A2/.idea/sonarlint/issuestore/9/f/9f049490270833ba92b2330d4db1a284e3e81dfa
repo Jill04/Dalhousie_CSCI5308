@@ -1,0 +1,50 @@
+
+p
+java:S1192>"NDefine a constant instead of duplicating this literal "Work History:" 3 times.(ïæ¡‚ıÿÿÿÿ8ìÉ¥ò0
+t
+java:S1192I"RDefine a constant instead of duplicating this literal "Employee with ID " 3 times.(Ãã’¬ùÿÿÿÿ8íÉ¥ò0
+n
+java:S1192‡"PDefine a constant instead of duplicating this literal "Salary Details:" 3 times.(’Ñ¤Ü8íÉ¥ò0
+}
+java:S1488¹"_Immediately return this expression instead of assigning it to the temporary variable "profits".(Îõ±‡8ğÉ¥ò0
+‡
+java:S1488Á"dImmediately return this expression instead of assigning it to the temporary variable "projectCount".(ªË°Âùÿÿÿÿ8ñÉ¥ò0
+ˆ
+java:S1488Ê"jImmediately return this expression instead of assigning it to the temporary variable "employmentDuration".(Çşà8óÉ¥ò0
+q
+java:S1104
+"TMake employee a static final constant or non-public and provide accessors if needed.(ÛÑ‚Œ8óÉ¥ò0
+4
+java:S1700
+"Rename field "employee"(ÛÑ‚Œ8ôÉ¥ò0
+f
+java:S2583†"CChange this condition so that it does not always evaluate to "true"(Å·´—ÿÿÿÿÿ8¤Ê¥ò0
+z	java:S116"YRename this field "employee_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¹ˆîûÿÿÿÿ8¥Ê¥ò0
+^	java:S107"=Method has 11 parameters, which is greater than 7 authorized.(òıÇ­ùÿÿÿÿ8¨Ê¥ò0
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(Û±¸æıÿÿÿÿ8®Ê¥ò0
+F
+java:S1905:")Remove this unnecessary cast to "String".(…àÿ¯8´Ê¥ò0
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(Ãã’¬ùÿÿÿÿ8·Ê¥ò0
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(Ãã’¬ùÿÿÿÿ8¸Ê¥ò0
+F
+java:S1905q")Remove this unnecessary cast to "String".(…àÿ¯8½Ê¥ò0
+U	java:S106v"9Replace this use of System.out or System.err by a logger.(˜–«é8¿Ê¥ò0
+U	java:S106z"9Replace this use of System.out or System.err by a logger.(îÛ´â8ÀÊ¥ò0
+f
+java:S1854‰"CRemove this useless assignment to local variable "employeeDetails".(ˆñêâùÿÿÿÿ8ÁÊ¥ò0
+V	java:S106Š"9Replace this use of System.out or System.err by a logger.(‡ŒÑ†8ÃÊ¥ò0
+[	java:S106Œ"9Replace this use of System.out or System.err by a logger.(ãÚœ†ùÿÿÿÿ8ÃÊ¥ò0
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ÔÍ¢ øÿÿÿÿ8ÄÊ¥ò0
+\
+java:S1854 "9Remove this useless assignment to local variable "email".(­¢¾‚øÿÿÿÿ8ÅÊ¥ò0
+c
+java:S1854©"@Remove this useless assignment to local variable "bonusMessage".(•¾Ò£øÿÿÿÿ8ÇÊ¥ò0
+M
+java:S1481 "*Remove this unused "email" local variable.(­¢¾‚øÿÿÿÿ8ÊÊ¥ò0
+T
+java:S1481©"1Remove this unused "bonusMessage" local variable.(•¾Ò£øÿÿÿÿ8ÌÊ¥ò0
+Y	java:S125ª"<This block of commented-out lines of code should be removed.(›«Ù—8ÌÊ¥ò0
+V	java:S106¬"9Replace this use of System.out or System.err by a logger.(ˆöÿÕ8ÍÊ¥ò0
+[	java:S106°"9Replace this use of System.out or System.err by a logger.(ĞÆé¾ùÿÿÿÿ8ÎÊ¥ò0
+¤
+java:S1186Ö"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¥ÒßÑúÿÿÿÿ8ÓÊ¥ò0

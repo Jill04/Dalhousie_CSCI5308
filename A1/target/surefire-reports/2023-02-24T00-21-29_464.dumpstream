@@ -1,0 +1,5 @@
+# Created at 2023-02-24T00:21:29.966
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Intellij\ASDC_Projects\Assignment_1_ASDC\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
